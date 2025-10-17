@@ -66,8 +66,7 @@ Generate a model accuracy comparison plot.
 
 Save trained models (except the Enhanced Custom KNN) as .joblib files.
 
-
-# 📊 Step 3: View Results
+## 📊 Step 3: View Results
 Confusion matrices and model comparison plots are saved in the output/ folder.
 
 The console will display confusion matrices and report which model achieved the highest accuracy.
@@ -112,6 +111,15 @@ All plots are saved in the output/ directory for easy visualization.
 | Data Handling            | NumPy, Pandas                                           |
 | Development              | Python scripts / Jupyter Notebook                       |
 
+
+# 💻 Optional: Run the Jupyter Notebook
+You can also run the included Jupyter notebook for an interactive experience:
+
+1. Open DataMiningFinalProject.ipynb in Jupyter Notebook or Google Colab.
+2. Upload the parkinsons.zip file to the notebook environment.
+3. Execute the cells step by step to see data preprocessing, model training, and evaluation plots interactively.
+
+Note: The notebook performs the same pipeline as main.py, but provides visual outputs inline for easier exploration.
 
 
 # 📘 License
