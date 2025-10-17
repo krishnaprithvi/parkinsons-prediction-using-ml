@@ -40,7 +40,7 @@ def main():
     # Save models except Enhanced Custom KNN
     for model_name, model in models.items():
         if model_name != "Enhanced Custom KNN":
-            joblib.dump(model, f"{model_name.replace(' ', '_')}.joblib")
+            joblib.dump(model, f"models/{model_name.replace(' ', '_')}.joblib")
             print(f"Saved {model_name} model.")
 
 if __name__ == "__main__":
