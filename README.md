@@ -103,17 +103,15 @@ All plots are saved in the output/ directory for easy visualization.
 
 
 # 🧰 Tools and Technologies
-| **Component**            | **Technology Used**            |
-| --------------------------------------------------------- |
-| Language                 | Python 3.10                    |
-| Libraries                | scikit-learn, pandas, seaborn, |
-|                          | matplotlib, numpy, scipy       |
-| Machine Learning Models  | SVM, KNN, Naive Bayes, Logistic|
-|                          | Regression                     | 
-| Plotting / Visualization | Seaborn, Matplotlib            |
-| Data Handling            | NumPy, Pandas                  |
-| Development              | Python scripts / Jupyter       |
-|                          | Notebook                       |
+| **Component**            | **Technology Used**                                     |
+| ------------------------ | ------------------------------------------------------- |
+| Language                 | Python 3.10                                             |
+| Libraries                | scikit-learn, pandas, seaborn, matplotlib, numpy, scipy |
+| Machine Learning Models  | SVM, KNN, Naive Bayes, Logistic Regression              |
+| Plotting / Visualization | Seaborn, Matplotlib                                     |
+| Data Handling            | NumPy, Pandas                                           |
+| Development              | Python scripts / Jupyter Notebook                       |
+
 
 
 # 📘 License
